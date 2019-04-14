@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Список заказов</string>
+    <string name="getButton_text">Получить список заказов</string>
+
+</resources>
